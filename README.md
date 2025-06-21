@@ -29,10 +29,10 @@ We present historical and statistical evidence for periodic variations in fundam
 
 | Figure | Preview |
 |--------|---------|
-| **Figure 1** – RK 9-year oscillation | ![](figures/Figure_1_Periodograms.png) |
-| **Figure 2** – Time series of α | ![](figures/Figure_2_Time_Series.png) |
-| **Figure 3** – RK periodogram | ![](figures/Figure_3_Correlation.png) |
-| **Figure 4** – Cross-correlation between RK and α | ![](figures/Figure_4_Statistical_Comparison.png) |
+| **Figure 1** – RK 9-year oscillation | ![](figures/Figure_1_Periodograms.jpg) |
+| **Figure 2** – Time series of α | ![](figures/Figure_2_Time_Series.jpg) |
+| **Figure 3** – RK periodogram | ![](figures/Figure_3_Correlation.jpg) |
+| **Figure 4** – Cross-correlation between RK and α | ![](figures/Figure_4_Statistical_Comparison.jpg) |
 
 ---
 
@@ -72,5 +72,3 @@ For questions or collaboration inquiries, please reach out via GitHub Issues or 
 📖 License
 
 This project is licensed under the MIT License.
-
----
